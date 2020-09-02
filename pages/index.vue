@@ -20,6 +20,7 @@
         >
           GitHub
         </a>
+        <nuxt-link to="/child" class="button--green"> Child </nuxt-link>
       </div>
     </div>
   </div>
